@@ -83,11 +83,139 @@ A manera de referencia se incluyen los aspectos específicos que corresponden al
 - **3.10.3 Recursos Humanos**
 
 **3.11 Fases e hitos del proyecto**
-- **Fase del Proyecto**
-    - **Hito del proyecto**
-    - **Fecha Estimada Culminación**
-    - **Entregables incluidos**
-    - **Prioridad**
+<table>
+    <thead>
+        <tr>
+        <th>Fase del Proyecto</th>
+        <th>Hito del Proyecto</th>
+        <th>Fecha Estimada Culminacion</th>
+        <th>Entregables incluidos</th>
+        <th>Prioridad</th>
+        </tr>
+    <tbody>
+        <tr>
+            <td>Iniciacion</td>
+            <td>
+                Hito 1:
+                <br>Validacion del
+                <br>proyecto con la
+                <br>tutora
+            </td>
+            <td>23/03/2024</td>
+            <td>Acta de
+                <br>contitucion del
+                <br>proyecto
+            </td>
+            <td>Baja</td>
+        </tr>
+        <tr>
+            <td>Planeacion</td>
+            <td>
+                Hito 2:
+                <br>Implementacion
+                <br>del plan de
+                <br>proyecto
+            </td>
+            <td>06/04/2024</td>
+            <td>Project Charter</td>
+            <td>Alta</td>
+        </tr>
+        <tr>
+            <td rowspan=2>Diseño</td>
+            <td>
+                Hito 3:
+                <br>Diseño
+                <br>de la
+                <br>arquitectura
+            </td>
+            <td>13/04/2024</td>
+            <td>Diagrama de
+                <br>Arquitectura
+            </td>
+            <td>Media</td>
+        </tr>
+        <tr>
+            <td>
+                Hito 4:
+                <br>Diseño
+                <br>de la interfaz
+            </td>
+            <td>20/04/2024</td>
+            <td>Application Mock
+                <br>-Ups and
+                <br>Wireframes
+            </td>
+            <td>Media</td>
+        </tr>
+        <tr>
+            <td rowspan=2>Desarrollo</td>
+            <td>
+                Hito 5:
+                <br>Desarrollo del 
+                <br>Backend
+            </td>
+            <td>04/05/2024</td>
+            <td>Codigo Fuente
+                <br>del Backend
+            </td>
+            <td>Alta</td>
+        </tr>
+        <tr>
+            <td>
+                Hito 6:
+                <br>Desarrollo del
+                <br>Frontend
+            </td>
+            <td>18/05/2024</td>
+            <td>Codigo Fuente
+                <br>del Frontend
+            </td>
+            <td>Alta</td>
+        </tr>
+        <tr>
+            <td>Pruebas</td>
+            <td>
+                Hito 7:
+                <br>Ejecucion
+                <br>de suite de
+                <br>pruebas
+            </td>
+            <td>25/05/2024</td>
+            <td>Informe de
+                <br>Pruebas
+            </td>
+            <td>Alta</td>
+        </tr>
+        <tr>
+            <td>Despliegue</td>
+            <td>
+                Hito 8:
+                <br>Despliegue de 
+                <br>Aplicacion en 
+                <br>produccion 
+            </td>
+            <td>07/06/2024</td>
+            <td>Informe de
+                <br>despliegue
+            </td>
+            <td>Alta</td>
+        </tr>
+        <tr>
+            <td>Cierre</td>
+            <td>
+                Hito 9:
+                <br>Cierre del
+                <br>proyecto
+            </td>
+            <td>21/06/2024</td>
+            <td>Documentacion
+                <br>de cierre del
+                <br>Proyecto
+            </td>
+            <td>Alta</td>
+        </tr>
+    </tbody>
+</table>
 
 **3.12 Enfoques del trabajo**
 
